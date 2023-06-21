@@ -10,12 +10,12 @@
 	Comments for Quilting Clenpot	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>My work in progress quilting site</description>
-	<lastBuildDate>Wed, 21 Jun 2023 14:54:27 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Wed, 21 Jun 2023 16:17:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 </channel>
 </rss>
